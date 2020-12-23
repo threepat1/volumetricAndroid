@@ -634,7 +634,7 @@ namespace prometheus
 
             if (!checkIsReadyToPlay())
                 return;
-            AW
+            
             //if (!mIsMeshAligned)
             //{
             //    mIsMeshAligned = makeAudioAndMeshAligned();
